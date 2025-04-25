@@ -1,0 +1,6 @@
+# requirements.txt
+
+GPy>=2.0.1  # Replace with the latest compatible version as needed
+numpy>=1.21.0
+matplotlib>=3.4.0
+pytest>=6.2.5  # For running the tests
